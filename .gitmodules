@@ -1,0 +1,3 @@
+[submodule "p1_navigation"]
+	path = p1_navigation
+	url = git@github.com:drmateo/p1-navigation.git

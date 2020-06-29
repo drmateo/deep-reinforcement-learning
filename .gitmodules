@@ -1,3 +1,6 @@
 [submodule "p1_navigation"]
 	path = p1_navigation
 	url = git@github.com:drmateo/p1-navigation.git
+[submodule "p2_continuous-control"]
+	path = p2_continuous-control
+	url = git@github.com:drmateo/p2-continous-control.git

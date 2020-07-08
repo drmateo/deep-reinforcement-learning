@@ -4,3 +4,6 @@
 [submodule "p2_continuous-control"]
 	path = p2_continuous-control
 	url = git@github.com:drmateo/p2-continous-control.git
+[submodule "p3_collab-compet"]
+	path = p3_collab-compet
+	url = git@github.com:drmateo/p3_collab-compet.git
